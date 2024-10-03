@@ -22,14 +22,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="![pokedex](https://github.com/user-attachments/assets/2feb6bd4-a2a1-486b-a6ae-827a2d0a7182)" alt="Logo" width="80" height="80">
-  </a>
-
-
+<img src="[pokedex]"/>
 <h3 align="center">OakGPT Pokedex</h3>
 
-  <p align="center">
+<p align="center">
     An artistically acurate fully functional pokedex, allows you to store a party, search the pokemon library, and plays custom built audio descriptions based on a multitude of attributes and abilities. Allows the user to open a chat window with Professor Oak and ask any pokemon related questions. A custom OpenAI agent will accuratlety respond to the uses questions. 
 </div>
 
@@ -116,3 +112,4 @@ Don't forget to give the project a star! Thanks again!
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[pokedex]: https://github.com/user-attachments/assets/bdebc65b-2e3b-4b56-9f62-e560bc2395b8
