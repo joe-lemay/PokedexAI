@@ -35,7 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I built this project as a test of my skills and as part of my time teaching student the fundamentals of web design. I decided to stick to vanilla js, html, and css to make it easily approachable even for a beginner. The poke API is free to use and does not require a key. The OakAI is implemnted as an optioanl feature, so even without an OpenAI API key the app is still fully functional. 
+I built this project as a test of my skills and as part of my time teaching students the fundamentals of web design. I decided to stick to vanilla js, html, and css to make it easily approachable even for a beginner. The poke API is free to use and does not require a key. The OakAI is implemnted as an optioanl feature, so even without an OpenAI API key the app is still fully functional.
 
 <!-- GETTING STARTED -->
 ## Getting Started
