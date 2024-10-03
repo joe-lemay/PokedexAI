@@ -28,19 +28,19 @@
 <br/>
 
 <p align="center">
-    An artistically acurate fully functional pokedex, allows you to store a party, search the pokemon library, and plays custom built audio descriptions based on a multitude of attributes and abilities. Allows the user to open a chat window with Professor Oak and ask any pokemon related questions. A custom OpenAI agent will accuratlety respond to the users questions. </p>
+    An artistically acurate, fully functional pokedex! Allows you to store a party, search the Pokemon library, and plays custom built audio descriptions based on a multitude of attributes and abilities. Allows the user to open a chat window with Professor Oak and ask any pokemon related questions. A custom OpenAI agent will accuratety respond to the users questions. </p>
 <img src="imgs/oakai.PNG" width="500px" >
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-I built this project as a test of my skills and as part of my time teaching students the fundamentals of web design. I decided to stick to vanilla js, html, and css to make it easily approachable even for a beginner. The poke API is free to use and does not require a key. The OakAI is implemnted as an optioanl feature, so even without an OpenAI API key the app is still fully functional.
+I built this project as a test of my skills and as part of my time teaching students the fundamentals of web design. I decided to stick to vanilla js, html, and css to make it easily approachable even for a beginner. The poke API is free to use and does not require a key. The OakAI is implemented as an optional feature, so even without an OpenAI API key the app is still fully functional.
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This project uses a simple html file. Just open it in any browser. If youd like to use the OakAI, youll have to enter your OpenAI API key in the code provided.
+This project uses a simple html file. Just open it in any browser. If you'd like to use the OakAI, you'll have to enter your OpenAI API key in the code provided.
 
 ### Prerequisites
 
@@ -54,7 +54,7 @@ To use the Pokedex you simply need a browser and an OpenAI API key.
    git clone https://github.com/joe-lemay/pokedexai.git
    ```
 4. Insert your key from OpenAI into the script.js
-
+5. Become a Pokemon master!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
