@@ -22,8 +22,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<img src="imgs/pokedex.PNG" width = "400px >
-<img src="imgs/oakai.PNG" width = "400px >
+<img src="imgs/pokedex.PNG" width = "400px" height="200px">
+<img src="imgs/oakai.PNG" width = "400px" height="200px">
 <br/>
 <p><h1>OakAI Pokedex</h1></p>
 
