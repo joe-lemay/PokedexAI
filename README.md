@@ -24,7 +24,7 @@
 <div align="center">
 <img src="imgs/pokedex.PNG" width = "400px >
 <br/>
-<h1 align="center">OakGPT Pokedex</h1>
+<p><h1>OakAI Pokedex</h1></p>
 
 <p align="center">
     An artistically acurate fully functional pokedex, allows you to store a party, search the pokemon library, and plays custom built audio descriptions based on a multitude of attributes and abilities. Allows the user to open a chat window with Professor Oak and ask any pokemon related questions. A custom OpenAI agent will accuratlety respond to the uses questions. 
