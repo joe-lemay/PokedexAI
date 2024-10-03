@@ -22,7 +22,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-![pokedex](imgs/pokedex.png)
+![](imgs/pokedex.PNG)
 <h3 align="center">OakGPT Pokedex</h3>
 
 <p align="center">
