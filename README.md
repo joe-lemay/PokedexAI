@@ -23,9 +23,9 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="![pokedex](https://github.com/user-attachments/assets/2feb6bd4-a2a1-486b-a6ae-827a2d0a7182)" alt="Logo" width="80" height="80">
   </a>
-![pokedex](https://github.com/user-attachments/assets/2feb6bd4-a2a1-486b-a6ae-827a2d0a7182)
+
 
 <h3 align="center">OakGPT Pokedex</h3>
 
