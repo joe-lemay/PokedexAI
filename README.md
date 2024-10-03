@@ -21,14 +21,15 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
-<img src="imgs/pokedex.PNG" width = "400px" height="200px">
-<img src="imgs/oakai.PNG" width = "400px" height="200px">
-<br/>
 <p><h1>OakAI Pokedex</h1></p>
+<div align="center">
+<img src="imgs/pokedex.PNG" width="500px" >
+
+<br/>
 
 <p align="center">
-    An artistically acurate fully functional pokedex, allows you to store a party, search the pokemon library, and plays custom built audio descriptions based on a multitude of attributes and abilities. Allows the user to open a chat window with Professor Oak and ask any pokemon related questions. A custom OpenAI agent will accuratlety respond to the uses questions. 
+    An artistically acurate fully functional pokedex, allows you to store a party, search the pokemon library, and plays custom built audio descriptions based on a multitude of attributes and abilities. Allows the user to open a chat window with Professor Oak and ask any pokemon related questions. A custom OpenAI agent will accuratlety respond to the users questions. </p>
+<img src="imgs/oakai.PNG" width="500px" >
 </div>
 
 <!-- ABOUT THE PROJECT -->
