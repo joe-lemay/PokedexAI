@@ -25,6 +25,7 @@
   <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+![pokedex](https://github.com/user-attachments/assets/2feb6bd4-a2a1-486b-a6ae-827a2d0a7182)
 
 <h3 align="center">OakGPT Pokedex</h3>
 
@@ -34,8 +35,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 I built this project as a test of my skills and as part of my time teaching student the fundamentals of web design. I decided to stick to vanilla js, html, and css to make it easily approachable even for a beginner. The poke API is free to use and does not require a key. The OakAI is implemnted as an optioanl feature, so even without an OpenAI API key the app is still fully functional. 
 
